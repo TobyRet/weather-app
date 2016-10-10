@@ -1,0 +1,13 @@
+.weather-app {
+    margin-top: 50px;
+}
+
+.weather-list, .search-bar {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+td, th {
+    vertical-align: middle !important;
+    text-align: center !important;
+}
